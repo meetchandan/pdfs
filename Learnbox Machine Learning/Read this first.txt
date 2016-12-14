@@ -1,0 +1,11 @@
+// 'Codes' folder Contains all the coding exercises and code samples used in this course. //
+
+// 'Supplements' folder contains PDF/text/doc/etc files which are given as addons along with the lectures. //
+
+// Files are named as L01...., L02...., L03... etc., where L01 corresponods to Lecture 01, L02 corresponods to Lecture 02 and so on. //
+
+// Files may or may not be available for all the lectures. These files are given for lectures wherever there is a requirement and multiple lectures may have same file.//
+
+// Both folders may not be present. It may have only 'Codes' folder or only 'Supplements' folder or both depending upon the course.//
+
+//HAPPY LEARNING!//
